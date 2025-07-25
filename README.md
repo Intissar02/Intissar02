@@ -37,9 +37,8 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 <p align="center">
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img alt="spaCy" src="https://raw.githubusercontent.com/explosion/spaCy/master/website/assets/images/logo.svg" width="80" height="40" title="spaCy"/>
-  <img alt="NLTK" src="https://www.nltk.org/images/nltk_logo.png" width="40" height="40" title="NLTK"/>
   <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" title="HuggingFace"/>
 </p>
 
 
