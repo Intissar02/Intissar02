@@ -15,52 +15,58 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 - Focus areas: Rule-based NLP, data modeling, exploratory visualization
 
 ---
-### Technologies & Tools
+### Technologies & Tools (Dark Mode Friendly)
 
 <p align="center">
 
 <table>
   <tr>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="60" height="60" style="border-radius:50%; background:#3776AB; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Python
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="60" height="60" style="border-radius:50%; background:#61DAFB; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="60" height="60" style="fill:#61dafb;" />
       <br>React
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" alt="Jupyter" width="60" height="60" style="border-radius:50%; background:#F37626; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" alt="Jupyter" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Jupyter
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="60" height="60" style="border-radius:50%; background:#FF6F00; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>TensorFlow
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" alt="Scikit-Learn" width="60" height="60" style="border-radius:50%; background:#F7931E; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" alt="Scikit-Learn" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Scikit-Learn
     </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="60" height="60" style="border-radius:50%; background:#092E20; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/spacy.svg" alt="spaCy" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
+      <br>spaCy
+    </td>
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/nltk.svg" alt="NLTK" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
+      <br>NLTK
+    </td>
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Django
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" alt="Angular" width="60" height="60" style="border-radius:50%; background:#DD0031; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" alt="Angular" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Angular
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="60" height="60" style="border-radius:50%; background:#336791; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>PostgreSQL
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" alt="Matplotlib" width="60" height="60" style="border-radius:50%; background:#11557C; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" alt="Matplotlib" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Matplotlib
     </td>
-    <td align="center" style="padding:10px">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" width="60" height="60" style="border-radius:50%; background:#150458; padding:8px;" />
+    <td align="center" style="padding:12px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" width="60" height="60" style="fill:#fff; filter: drop-shadow(0 0 1px #000);" />
       <br>Pandas
     </td>
   </tr>
