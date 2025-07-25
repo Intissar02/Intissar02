@@ -1,7 +1,7 @@
 # 👋 Hi there, I’m Intissar Gourainy
 
-🎓 I’m a Computer Science graduate passionate about solving problems with Natural Language Processing and Machine Learning.  
-🛰️ My final-year research focused on automating the extraction and analysis of CubeSat mission data using NLP.
+I’m a Computer Science graduate passionate about solving problems with Natural Language Processing, Machine Learning, and building impactful applications.
+My final-year research focused on automating the extraction and analysis of CubeSat mission data using NLP.
 
 I enjoy working on projects at the intersection of space, data, and language, building tools that make messy information structured, visual, and useful.
 
