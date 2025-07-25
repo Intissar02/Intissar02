@@ -15,19 +15,59 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 - Focus areas: Rule-based NLP, data modeling, exploratory visualization
 
 ---
-### Languages & Tools
+### Technologies & Tools
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
+<table>
+  <tr>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" alt="Python" width="60" height="60" style="border-radius:50%; background:#3776AB; padding:8px;" />
+      <br>Python
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/react.svg" alt="React" width="60" height="60" style="border-radius:50%; background:#61DAFB; padding:8px;" />
+      <br>React
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/jupyter.svg" alt="Jupyter" width="60" height="60" style="border-radius:50%; background:#F37626; padding:8px;" />
+      <br>Jupyter
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tensorflow.svg" alt="TensorFlow" width="60" height="60" style="border-radius:50%; background:#FF6F00; padding:8px;" />
+      <br>TensorFlow
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/scikitlearn.svg" alt="Scikit-Learn" width="60" height="60" style="border-radius:50%; background:#F7931E; padding:8px;" />
+      <br>Scikit-Learn
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/django.svg" alt="Django" width="60" height="60" style="border-radius:50%; background:#092E20; padding:8px;" />
+      <br>Django
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/angular.svg" alt="Angular" width="60" height="60" style="border-radius:50%; background:#DD0031; padding:8px;" />
+      <br>Angular
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postgresql.svg" alt="PostgreSQL" width="60" height="60" style="border-radius:50%; background:#336791; padding:8px;" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/matplotlib.svg" alt="Matplotlib" width="60" height="60" style="border-radius:50%; background:#11557C; padding:8px;" />
+      <br>Matplotlib
+    </td>
+    <td align="center" style="padding:10px">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/pandas.svg" alt="Pandas" width="60" height="60" style="border-radius:50%; background:#150458; padding:8px;" />
+      <br>Pandas
+    </td>
+  </tr>
+</table>
+
 </p>
+
 
 
 ---
