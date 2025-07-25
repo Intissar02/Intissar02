@@ -16,40 +16,46 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Technologies & Tools  
 
-#### Programming & Web
-<p align="center">
-  <p align="center"> <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/> <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/> <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> </p> 
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
-</p>
+#### 💻 Programming Languages  
+<p align="center">  
+  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>  
+  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>  
+  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>  
+  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>  
+</p>  
 
-#### Machine Learning & NLP
-<p align="center">
-  <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40"/>
-  <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40"/>
-  <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-</p>
+#### 🌐 Web Development  
+<p align="center">  
+  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>  
+  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>  
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>  
+</p>  
 
-#### Data & Databases
-<p align="center">
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/>
-  <img alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40"/>
-</p>
+#### 🤖 Machine Learning & NLP  
+<p align="center">  
+  <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>  
+  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/>  
+  <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40" title="spaCy"/>  
+  <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40" title="NLTK"/>  
+</p>  
 
-#### Cloud & Big Data
-<p align="center">
-  <img alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" height="40"/>
-  <img alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40"/>
-  <img alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
-  <img alt="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40"/>
+#### 🗃️ Data & Databases  
+<p align="center">  
+  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>  
+  <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40" title="Pandas"/>  
+  <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" title="Matplotlib"/>  
+</p>  
+
+#### ☁️ Cloud & Big Data  
+<p align="center">  
+  <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" title="AWS"/>  
+  <img alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40" title="Azure"/>  
+  <img alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" height="40" title="Databricks"/>  
+  <img alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40" title="Apache Spark"/>  
+  <img alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" title="Apache Kafka"/>  
+  <img alt="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40" title="Apache Hadoop"/>  
 </p>
 ---
 
