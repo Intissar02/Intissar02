@@ -7,7 +7,7 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 
 ---
 
-### What I Worked On
+###  What I Worked On
 
 - **Capstone Project**: Applied NLP techniques (regex, TF-IDF, cosine similarity) to extract mission data from text, APIs, and websites (scraping)  
 - Structured the output into a Supabase PostgreSQL database  
