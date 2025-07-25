@@ -1,66 +1,67 @@
-# 👋 Hi there, I’m Intissar Gourainy
+# 👋 Hi there, I'm Intissar Gourainy
 
-I’m a Computer Science graduate passionate about solving problems with Natural Language Processing, Machine Learning, and building impactful applications.
-My final-year research focused on automating the extraction and analysis of CubeSat mission data using NLP.
+🎓 Computer Science graduate passionate about NLP, ML, and building impactful applications  
+🛰️ Final-year research: Automated extraction/analysis of CubeSat mission data using NLP  
 
-I enjoy working on projects at the intersection of space, data, and language, building tools that make messy information structured, visual, and useful.
-
----
-
-###  What I Worked On
-
-- **Capstone Project**: Applied NLP techniques (regex, TF-IDF, cosine similarity) to extract mission data from text, APIs, and websites (scraping)  
-- Structured the output into a Supabase PostgreSQL database  
-- Visualized results and built a React.js dashboard  
-- Focus areas: Rule-based NLP, data modeling, exploratory visualization
+I build tools that transform messy information into structured, visual, and useful insights at the intersection of space, data, and language.
 
 ---
 
-### Technologies & Tools  
+## 🚀 What I've Worked On
 
-#### Programming Languages  
-<p align="center">  
-  <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python"/>  
-  <img alt="C" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" title="C"/>  
-  <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" title="Java"/>  
-  <img alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>  
-</p>  
+- **Capstone Project**:  
+  🔍 Applied NLP (regex, TF-IDF, cosine similarity) to extract mission data from text/APIs/websites  
+  🗄️ Structured output in Supabase PostgreSQL database  
+  📊 Built React.js dashboard for visualization  
+  🎯 Focus: Rule-based NLP, data modeling, exploratory visualization  
 
-#### Web Development  
-<p align="center">  
-  <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" title="React"/>  
-  <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>  
-  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>  
-</p>  
+---
 
-#### Machine Learning & NLP
+## 🛠️ Technologies & Tools
+
+#### 💻 Programming Languages
 <p align="center">
-  <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-  <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C"/>
+  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/>
+  <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/>
+</p>
+
+#### 🌐 Web Development
+<p align="center">
+  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/>
+  <img alt="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" title="Angular"/>
+  <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" title="Django"/>
+</p>
+
+#### 🤖 Machine Learning
+<p align="center">
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
+  <img alt="Scikit-Learn" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40" title="Scikit-Learn"/>
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
   <img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" title="HuggingFace"/>
 </p>
 
-#### Data & Databases  
-<p align="center">  
-  <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>  
-  <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40" title="Pandas"/>  
-  <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40" title="Matplotlib"/>  
-  <img alt="SQLite" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" height="40" title="SQLite"/>  
-</p>  
-
-#### Cloud & Big Data  
-<p align="center">  
-  <img alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" height="40" title="Databricks"/>  
-  <img alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40" title="Apache Spark"/>  
-  <img alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" title="Apache Kafka"/>  
-  <img alt="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40" title="Apache Hadoop"/>  
+#### 🗃️ Data & Databases
+<p align="center">
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>
+  <img alt="Pandas" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  <img alt="Matplotlib" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/>
+  <img alt="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/>
 </p>
 
-### 🌱 Currently
-
-- Refining my NLP/ML skills through independent projects  
-- Exploring ways to make research tools more accessible  
-- Open to early-career roles, internships, or research collaborations
+#### ☁️ Cloud & Big Data
+<p align="center">
+  <img alt="Databricks" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/databricks/databricks-original.svg" width="40" height="40" title="Databricks"/>
+  <img alt="Spark" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" width="40" height="40" title="Apache Spark"/>
+  <img alt="Kafka" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="40" height="40" title="Kafka"/>
+  <img alt="Hadoop" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachehadoop/apachehadoop-original.svg" width="40" height="40" title="Hadoop"/>
+</p>
 
 ---
+
+## 🌱 Currently
+
+- 🔧 Refining NLP/ML skills through independent projects  
+- 🌍 Making research tools more accessible  
+- 🤝 Open to early-career roles, internships, or research collaborations  
