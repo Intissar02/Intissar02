@@ -47,9 +47,9 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 <p align="center">
   <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
   <img alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
-  <img alt="Databricks" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Databricks_Logo.png" width="100" height="25"/>
+  <img alt="Databricks" src="https://www.vectorlogo.zone/logos/databricks/databricks-ar21.svg" width="100" height="40"/>
   <img alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40"/>
-  <img alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="40" height="40"/>
+  <img alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/>
 </p>
 ---
 
