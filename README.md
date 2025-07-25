@@ -23,21 +23,23 @@ I enjoy working on projects at the intersection of space, data, and language, bu
   <img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   <img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img alt="Angular" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="40" height="40"/>
+  <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 </p>
 
 #### Machine Learning & NLP
 <p align="center">
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img alt="Scikit-Learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40"/>
   <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40"/>
+  <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 </p>
 
 #### Data & Databases
 <p align="center">
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
   <img alt="Pandas" src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="40" height="40"/>
+  <img alt="NumPy" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
   <img alt="Matplotlib" src="https://matplotlib.org/_static/logo2_compressed.svg" width="40" height="40"/>
 </p>
 
@@ -45,11 +47,10 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 <p align="center">
   <img alt="AWS" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40"/>
   <img alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="40" height="40"/>
-  <img alt="Databricks" src="https://www.databricks.com/wp-content/uploads/2021/09/databricks-logo-1.png" width="100" height="25"/>
-  <img alt="Spark" src="https://spark.apache.org/images/spark-logo-trademark.png" width="80" height="40"/>
-  <img alt="Kafka" src="https://kafka.apache.org/images/logo.svg" width="80" height="40"/>
+  <img alt="Databricks" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Databricks_Logo.png" width="100" height="25"/>
+  <img alt="Spark" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="80" height="40"/>
+  <img alt="Kafka" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" width="40" height="40"/>
 </p>
-
 ---
 
 ### 🌱 Currently
