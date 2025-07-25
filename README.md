@@ -41,7 +41,6 @@ I enjoy working on projects at the intersection of space, data, and language, bu
   <img alt="HuggingFace" src="https://huggingface.co/front/assets/huggingface_logo.svg" width="40" height="40" title="HuggingFace"/>
 </p>
 
-
 #### Data & Databases  
 <p align="center">  
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>  
@@ -57,7 +56,6 @@ I enjoy working on projects at the intersection of space, data, and language, bu
   <img alt="Kafka" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40" title="Apache Kafka"/>  
   <img alt="Hadoop" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" width="40" height="40" title="Apache Hadoop"/>  
 </p>
----
 
 ### 🌱 Currently
 
