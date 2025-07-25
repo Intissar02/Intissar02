@@ -37,8 +37,8 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 <p align="center">  
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>  
   <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/> 
-  <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40" title="spaCy"/>  
-  <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40" title="NLTK"/>  
+  <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40"/>
+  <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40"/>
 </p>  
 
 #### Data & Databases  
