@@ -36,9 +36,10 @@ I enjoy working on projects at the intersection of space, data, and language, bu
 #### Machine Learning & NLP
 <p align="center">
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img alt="Scikit-Learn" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="40" height="40"/>
+  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
   <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40"/>
   <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40"/>
+  <img alt="PyTorch" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
 </p>
 
 
