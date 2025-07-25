@@ -33,13 +33,19 @@ I enjoy working on projects at the intersection of space, data, and language, bu
   <img alt="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40" title="Django"/>  
 </p>  
 
-#### Machine Learning & NLP  
-<p align="center">  
+#### 🤖 Machine Learning & NLP  
+<p align="center">
+  <!-- Working spaCy logo from official site -->
+  <img alt="spaCy" src="https://spacy.io/assets/img/logo.svg" width="80" height="40" title="spaCy"/>
+  
+  <!-- NLTK logo from GitHub -->
+  <img alt="NLTK" src="https://raw.githubusercontent.com/nltk/nltk.github.io/main/assets/images/logo.png" width="40" height="40" title="NLTK"/>
+  
   <img alt="TensorFlow" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>  
-  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/> 
-  <img alt="spaCy" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/SpaCy_logo.svg" width="40" height="40"/>
-  <img alt="NLTK" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Nltk_logo.svg" width="40" height="40"/>
+  <img alt="Scikit-Learn" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-Learn"/>
 </p>
+
+
 #### Data & Databases  
 <p align="center">  
   <img alt="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/>  
